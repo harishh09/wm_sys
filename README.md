@@ -126,7 +126,7 @@ Drag & Drop Task Workflow:
 
 ## 📂 Folder Structure
 
-\`\`\`bash
+```text
 wm_sys/
 └── work-management-system/
     ├── backend/
@@ -143,9 +143,6 @@ wm_sys/
     │
     ├── package.json
     └── vite.config.js
-\`\`\`
-
----
 
 ## ⚙️ Installation & Setup
 
