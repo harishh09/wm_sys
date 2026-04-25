@@ -11,7 +11,7 @@ const Signup = () => {
   const onSubmit = async (data) => {
     try {
       await axios.post(
-        "http://localhost:5000/signup",
+        "https://wm-sys.onrender.com/signup",
         data
       );
 

@@ -13,7 +13,7 @@ const Login = () => {
   const onSubmit = async (data) => {
     try {
       const res = await axios.post(
-        "http://localhost:5000/login",
+        "https://wm-sys.onrender.com/login",
         data
       );
 

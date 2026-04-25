@@ -34,7 +34,7 @@ const Dashboard = () => {
   useEffect(() => {
     const socket =
       io(
-        "http://localhost:5000"
+        "https://wm-sys.onrender.com"
       );
 
     socket.on(
