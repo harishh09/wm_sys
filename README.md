@@ -143,7 +143,7 @@ wm_sys/
     │
     ├── package.json
     └── vite.config.js
-
+```
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
